@@ -1,0 +1,45 @@
+a:hover {
+    text-decoration: none;
+}
+
+.form-control {
+    color: #818A91;
+}
+
+
+.card {
+    border: none;
+
+    &-body {
+        padding: 0;
+    }
+
+    &-img-top {
+        border-radius: 0;
+    }
+
+    &-img-div {
+        position: relative;
+    }
+}
+
+.page-link {
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:active {
+        text-decoration: underline;
+        color: $primary;
+    }
+
+}
+
+.modal {
+
+
+    &-body {
+        margin-bottom: 0;
+
+    }
+}
