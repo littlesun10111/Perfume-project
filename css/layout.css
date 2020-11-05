@@ -1,0 +1,31 @@
+.nav-small-icon {
+  margin-right: 4px;
+}
+
+.subscribe-div {
+  height: 600px;
+  background: #ccc;
+}
+
+.subscribe {
+  margin-top: 312px;
+}
+
+.subscribe p {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.footer {
+  padding: 20px;
+}
+
+.footer p {
+  margin-bottom: 0;
+  margin-left: 20px;
+}
+
+.bg-perfume {
+  height: 80px;
+}
+/*# sourceMappingURL=layout.css.map */
